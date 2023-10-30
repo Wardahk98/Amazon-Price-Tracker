@@ -1,11 +1,11 @@
 #---------------------Notification--------------------------
-my_email = "wardahk96py@gmail.com"
-password = "gtfx nzuq ltrt kdtp"
+my_email = Your Email
+password = Your Password
 #------------------------------------------------------------
 #---------------------Data Manager---------------------------
-sheety_post_url = "https://api.sheety.co/be742f41b12e43dae5febd442eb7c226/amazonProductTracker/sheet1"
+sheety_post_url = Your sheety url for post and get
 sheety_header = {
-            "Authorization": "Basic d2FyZGFoazpxd2VydHktMTIzNDU2",
+            "Authorization": Your Sheety Authentication,
         }
 
 #------------------------------------------------------------
